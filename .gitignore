@@ -1,7 +1,7 @@
 .vscode
 lyrics.py
-build/
-dist/
+build
+dist
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
