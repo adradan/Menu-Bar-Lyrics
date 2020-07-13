@@ -81,8 +81,7 @@ class LyricFetcher(rumps.App):
             'title': 'Invalid Input',
             'message': f'Artist or Song is incorrectly spelled.\nPlease try again.\n\n'
                      + f'Given Artist: {self.artist}\n'
-                     + f'Given Song: {self.song}'
-                     + f'{os.getcwd()}',
+                     + f'Given Song: {self.song}',
             'ok': 'Try Again',
             'cancel': 'Cancel'
         }
