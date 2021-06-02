@@ -9,5 +9,5 @@ pyobjc-framework-Cocoa==6.2.2
 requests==2.23.0
 rumps==0.3.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 py2app==0.21
